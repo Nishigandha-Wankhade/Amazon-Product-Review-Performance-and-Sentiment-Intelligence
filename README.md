@@ -1,4 +1,7 @@
 # Amazon-Product-Review-Performance-and-Sentiment-Intelligence
+
+<img width="1536" height="1024" alt="ChatGPT Image Jan 16, 2026, 11_35_35 PM" src="https://github.com/user-attachments/assets/5a78d575-a1e1-47d9-9955-aa4428b31a80" />
+
 ### About project
 
 **Category:**
